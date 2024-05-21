@@ -1,0 +1,20 @@
+{
+    "name": "John Doe",
+    "age": 25,
+    "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+    },
+    "phone": [
+        {
+        "type": "home",
+        "number": "123-456-7890"
+        },
+        {
+        "type": "cell",
+        "number": "234-567-8901"
+        }
+    ]
+}
